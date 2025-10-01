@@ -1,0 +1,26 @@
+.todo-list-card {
+  background-color: #f5f5f5; /* half white */
+  color: black; /* text color */
+  padding: 16px;
+  border-radius: 8px;
+}
+
+table.mat-elevation-z8 {
+  background-color: #f5f5f5;
+  color: black;
+}
+
+.mat-header-cell,
+.mat-cell {
+  color: black !important;
+}
+
+h2, p, th, td {
+  color: black !important;
+}
+
+
+.logout-container {
+  text-align: right;
+  margin-bottom: 10px;
+}
