@@ -32,9 +32,6 @@ git clone https://github.com/your-username/todos-app.git
 cd todos-app
 
 
-<img width="1595" height="362" alt="list" src="https://github.com/user-attachments/assets/aedde0b1-fa7b-41d1-a190-6aaa6a42d727" />
-
-<img width="1599" height="460" alt="list 2" src="https://github.com/user-attachments/assets/26cef2e1-b0ce-4433-b47c-f3ca5f3db773" />
 
 
 ## Development server
